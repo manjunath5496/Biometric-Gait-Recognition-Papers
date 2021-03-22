@@ -47,81 +47,69 @@ for Gait-based Authentication</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(24).pdf" style="text-decoration:none;">Gait Analysis Methods: An Overview of Wearable and Non-Wearable Systems, Highlighting Clinical Applications</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(25).pdf" style="text-decoration:none;">Gait and activity recognition using commercial phones</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(26).pdf" style="text-decoration:none;">Gait Authentication and Identification Using Wearable Accelerometer Sensor</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(27).pdf" style="text-decoration:none;">Gait Authentication Based on Acceleration Signals of Ankle</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(28).pdf" style="text-decoration:none;">Gait authentication on mobile phone using biometric cryptosystem and fuzzy commitment scheme</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(29).pdf" style="text-decoration:none;">Gait cycle recognition based on wireless inertial sensor network </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(30).pdf" style="text-decoration:none;">Gait Identification Using Accelerometer on Mobile Phone</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(31).pdf" style="text-decoration:none;">Gait Identification Using Cumulants of Accelerometer Data</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(32).pdf" style="text-decoration:none;">Gait Recognition Based on MEMS Accelerometer</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(33).pdf" style="text-decoration:none;">Gait Recognition for Children over a Longer Period</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(34).pdf" style="text-decoration:none;">Gait Recognition Using V2DPCA (VARIABLE 2D-PCA) – A Review</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(35).pdf" style="text-decoration:none;">Gait-based User Classification Using Phone Sensors</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(36).pdf" style="text-decoration:none;">Gaithashing: A two-factor authentication scheme based on gait features</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(37).pdf" style="text-decoration:none;">Gait-ID on the Move: Pace Independent Human Identification Using Cell Phone Accelerometer Dynamics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(38).pdf" style="text-decoration:none;">Human Gait Authentication with AVR Using Labview</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(39).pdf" style="text-decoration:none;">Human Identification via Gait Recognition Using Accelerometer Gyro Forces</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(40).pdf" style="text-decoration:none;">Identifying people from gait pattern with accelerometers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(41).pdf" style="text-decoration:none;">Improved Cycle Detection for Accelerometer Based Gait Authentication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(42).pdf" style="text-decoration:none;">Individual Recognition from Gait Using Feature Value Method</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(43).pdf" style="text-decoration:none;">Inertial Sensor-Based Gait Recognition: A Review</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(44).pdf" style="text-decoration:none;">Inertial-sensor-basedWalking Action Recognition using Robust Step Detection and Inter-class Relationships</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(45).pdf" style="text-decoration:none;">In
+uence of Walking Surfaces and Speeds on Accelerometer-Based Gait Recognition</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(46).pdf" style="text-decoration:none;">Off-the-Shelf Mobile Handset Environments for Deploying Accelerometer based Gait and Activity Analysis Algorithms</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(47).pdf" style="text-decoration:none;">Orientation-compensative signal registration for owner authentication using an accelerometer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(48).pdf" style="text-decoration:none;">Personalization in Mobile Activity Recognition System Using 𝐾-Medoids Clustering Algorithm</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(49).pdf" style="text-decoration:none;">Phase Registration in a Gallery Improving Gait Authentication</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(50).pdf" style="text-decoration:none;">Real-world Gyroscope-based Gait Event Detection and Gait Feature Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(51).pdf" style="text-decoration:none;">Secure and Privacy Enhanced Gait Authentication on Smart Phone</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(52).pdf" style="text-decoration:none;">Sensing Foot Gestures from the Pocket</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(53).pdf" style="text-decoration:none;">Sensor Orientation Invariant Mobile Gait Biometrics</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(54).pdf" style="text-decoration:none;">APCCAS2010 Aruni </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(55).pdf" style="text-decoration:none;">Smartphone Based User Verification Leveraging Gait Recognition for Mobile Healthcare Systems</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(56).pdf" style="text-decoration:none;">Paper1 Spoof Attacks on Gait Authentication System </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(57).pdf" style="text-decoration:none;">The largest inertial sensor-based gait database and performance evaluation of gait-based personal authentication</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(58).pdf" style="text-decoration:none;">The use of a single inertial sensor to identify stride, step, and stance durations of running gait</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(59).pdf" style="text-decoration:none;">Time Series Analysis Using Geometric Template Matching</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(60).pdf" style="text-decoration:none;">Unobtrusive Gait Verification for Mobile Phones </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(61).pdf" style="text-decoration:none;">Unobtrusive User-Authentication on Mobile Phones using Biometric Gait Recognition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(62).pdf" style="text-decoration:none;">User Verification Leveraging Gait Recognition for Smartphone Enabled Mobile Healthcare Systems</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(63).pdf" style="text-decoration:none;">On The Instability of Sensor Orientation in Gait Verification on Mobile Phone</a></li>                              
 
   </ul>
