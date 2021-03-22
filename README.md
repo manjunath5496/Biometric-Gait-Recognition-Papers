@@ -112,4 +112,5 @@ uence of Walking Surfaces and Speeds on Accelerometer-Based Gait Recognition</a>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(63).pdf" style="text-decoration:none;">On The Instability of Sensor Orientation in Gait Verification on Mobile Phone</a></li>                              
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/gt(64).pdf" style="text-decoration:none;">Biometric Gait Recognition</a></li>  
   </ul>
